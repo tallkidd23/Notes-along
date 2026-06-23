@@ -1,2 +1,3 @@
-# Notes-along
-Music creates music
+# Self Writing Music
+
+Project folder for GitHub.
